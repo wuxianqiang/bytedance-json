@@ -1,0 +1,28 @@
+{
+  "name": "bytedance-json",
+  "version": "1.0.0",
+  "description": "字节组件json列表",
+  "main": "bytedance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxianqiang/bytedance-json.git"
+  },
+  "keywords": [
+    "bytedance"
+  ],
+  "author": "wuxianqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxianqiang/bytedance-json/issues"
+  },
+  "homepage": "https://github.com/wuxianqiang/bytedance-json#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "parse-entities": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}
